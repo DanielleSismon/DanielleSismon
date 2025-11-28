@@ -5,7 +5,8 @@ Transitioning from a Legal background to Technology, combining strong analytical
 
 ---
 
-### 🇧🇷 <details><summary>Click here to read in Portuguese / Clique aqui para ler em Português</summary>
+<details>
+<summary> BR Click here to read in Portuguese / Clique aqui para ler em Português </summary>
 
 <br>
 
